@@ -6,4 +6,4 @@ Using three datasets that are available on the city of Chicago's Data Portal:
     (2) CHICAGO_PUBLIC_SCHOOLS https://ibm.box.com/shared/static/f9gjvj1gjmxxzycdhplzt01qtz0s7ew7.csv
     (3) CHICAGO_CRIME_DATA: https://ibm.box.com/shared/static/svflyugsr9zbqy5bmowgswqemfpm1x7f.csv
     
-Loading data from the above sources, create tables and then use SQL to answer the questions on this datasets.
+Create table on IBM DB2 by loading data from the above sources. Run SQL queries to answer the questions on this datasets.
